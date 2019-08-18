@@ -1,6 +1,6 @@
 .site-header {
-    background-color:#1bbc9b;
-    color: #ecfd9e;
+    background-color:#16cea9;
+    color: #f2f5e4;
     height: 100vh;
     font-family: monospace;
     display: flex;
@@ -10,6 +10,7 @@
 
 .site-header-content{
     margin: 10px;
+    align-self: center;
 }
 
 .course-link{
